@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Unreal/IxD-exam/Content/Shopkeeper/Items/ItemDataTable.uasset",
+				"D:/Unreal/IxD-exam/Content/Shopkeeper/Items/ItemDataTable1.uasset",
+				"D:/Unreal/IxD-exam/Content/Shopkeeper/Items/ItemDataTable2.uasset",
+				"D:/Unreal/IxD-exam/Content/Shopkeeper/Shopkeeper_NPC.uasset",
+				"D:/Unreal/IxD-exam/Content/Shopkeeper/Shopkeeper_Item_UI.uasset",
+				"D:/Unreal/IxD-exam/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/NY/N7SA0FDANBBHT5PB4HDDKL.uasset",
+				"D:/Unreal/IxD-exam/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/2I/ASW4A9WBURHO4NJ2OBCIDN.uasset",
 				"C:/IxD/Schiemann_Albert_IxD/Content/Shopkeeper/Shopkeeper_NPC.uasset",
 				"C:/IxD/Schiemann_Albert_IxD/Content/Shopkeeper/Shopkeeper_Anim.uasset",
 				"C:/IxD/Schiemann_Albert_IxD/Content/Shopkeeper/Shoopkeeper_Animation.uasset",
